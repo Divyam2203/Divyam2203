@@ -3,7 +3,7 @@
 ---
 
 <h1>👋Hey! I'm Divyam </h1>
-<img align ='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJmMDB5c3pxaTc0MGhsdmxmNmVpcjhzMHF2c3I4YnNseWN3NXJtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width = "190" style="margin-left:20px">
+
 
 <p>
 <i>Student at -</i><a href="https://kiit.ac.in">KIIT University</a> <br />
@@ -45,7 +45,9 @@ const Divyam = {
 <a href ="https://www.instagram.com/divyaminapickle/">
 <img src="https://img.icons8.com/?size=100&id=111412&format=png&color=000000" style="vertical-align:middle" height=70 alt="Instagram">
 </a>
+<img align ='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJmMDB5c3pxaTc0MGhsdmxmNmVpcjhzMHF2c3I4YnNseWN3NXJtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width = "190" style="margin-left:20px">
 <br>
+
 <br>
 
 *<h3>-thankyou for visiting-</h3>*
