@@ -2,11 +2,11 @@
 
 ---
 
-<h1>👋Hey! I'm Divyam </h1>
+<h1>👋Hi! I'm Divyam </h1>
 
 
 <p>
-<b>I'm a full-stack developer with a talent for building user-friendly web and mobile apps.🍄</b><br><br>
+<b>I'm a full-stack developer with a talent for building user-friendly web and mobile apps.</b><br><br>
 I'm wrapping up my final year at </i><a href="https://kiit.ac.in">KIIT University</a> in Bhubaneswar, where I'm earning my B.Tech. in Computer Science Engineering. During my time at college, I've discovered a deep passion for coding and web development. My skills lie in frameworks like React, Kotlin, and Python, but I'm always learning and expanding my horizons. In my free time, I unwind with my guitar. 
 </p>
 
