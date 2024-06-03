@@ -3,13 +3,13 @@
 ---
 
 <h1>👋Hey! I'm Divyam </h1>
+<img align ='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJmMDB5c3pxaTc0MGhsdmxmNmVpcjhzMHF2c3I4YnNseWN3NXJtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width = "210" style="margin-left:20px">
 
 <p>
 <i>Student at -</i><a href="https://kiit.ac.in">KIIT University</a> <br />
 <i>Aspiring to be -</i> Web Developer
 </p>
 
-<img align ='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJmMDB5c3pxaTc0MGhsdmxmNmVpcjhzMHF2c3I4YnNseWN3NXJtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width = "210" style="margin-left:20px">
 
 ```javascript
 const Divyam = {
