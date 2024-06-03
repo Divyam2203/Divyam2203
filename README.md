@@ -26,19 +26,19 @@ I'm wrapping up my final year at </i><a href="https://kiit.ac.in">KIIT Universit
 **<h2>📬Connect with me </h2>**
 
 
-<a href ="https://www.linkedin.com/in/divyam-4b9476255/">
+<a href ="https://www.linkedin.com/in/divyam-4b9476255/" target ="_blank" title="LinkedIn">
 <img src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 >
 </a>
-<a href ="https://github.com/Divyam2203">
+<a href ="https://github.com/Divyam2203" target ="_blank" title="GitHub">
 <img src="https://img.icons8.com/?size=100&id=118557&format=png&color=000000" style="vertical-align:middle" height=70 alt="GitHub link">
 </a>
-<a href ="mailto:divyam2203@gmail.com">
+<a href ="mailto:divyam2203@gmail.com" target ="_blank" title="Mail">
 <img src="https://img.icons8.com/?size=100&id=108806&format=png&color=000000" style="vertical-align:middle" height=70 alt="Mail" >
 </a>
-<a href ="https://divyam2203.pythonanywhere.com/">
+<a href ="https://divyam2203.pythonanywhere.com/" target ="_blank" title="Portfolio">
 <img src="https://img.icons8.com/?size=100&id=121191&format=png&color=000000" style="vertical-align:middle" height=70 alt="Portfolio">
 </a>
-<a href ="https://www.instagram.com/divyaminapickle/">
+<a href ="https://www.instagram.com/divyaminapickle/" target ="_blank" tile="Instagram" >
 <img src="https://img.icons8.com/?size=100&id=111412&format=png&color=000000" style="vertical-align:middle" height=70 alt="Instagram">
 </a>
 <img align ='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJmMDB5c3pxaTc0MGhsdmxmNmVpcjhzMHF2c3I4YnNseWN3NXJtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width = "190" style="margin-left:20px;vertical-align:middle;">
