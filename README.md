@@ -14,7 +14,7 @@
 ```javascript
 const Divyam = {
   pronouns: "he" | "him",
-  code: [Python, Javascript, C, C++, html, css, Java],
+  code: [Python, Javascript, C, C++, Html, Css, Java],
   tools: [React, Node, Bootstrap, ThreeJS, MongoDB, sql],
   when_idle: [Playing_Guitar, Travelling, Reading]
 }
