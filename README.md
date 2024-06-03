@@ -2,13 +2,13 @@
 
 ---
 
-<h1>👋Hey! I'm Divyam </h1>
-<img align ='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJmMDB5c3pxaTc0MGhsdmxmNmVpcjhzMHF2c3I4YnNseWN3NXJtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" height = "210" style="margin-left:20px">
+<h1>👋Hey! I'm Divyam </h1><img align ='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJmMDB5c3pxaTc0MGhsdmxmNmVpcjhzMHF2c3I4YnNseWN3NXJtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width = "210" style="margin-left:20px">
 
 
   *Student at -* <a href="https://kiit.ac.in">KIIT University</a> <br />
 *Aspiring to be -* Web Developer
 
+## about me
 
 ```javascript
 const Divyam = {
