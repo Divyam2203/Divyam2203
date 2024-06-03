@@ -6,20 +6,23 @@
 
 
 <p>
-<i>Student at -</i><a href="https://kiit.ac.in">KIIT University</a> <br />
-<i>Aspiring to be -</i> Web Developer
+<b>I'm a full-stack developer with a talent for building user-friendly web and mobile apps.🍄</b><br><br>
+I'm wrapping up my final year at </i><a href="https://kiit.ac.in">KIIT University</a> in Bhubaneswar, where I'm earning my B.Tech. in Computer Science Engineering. During my time at college, I've discovered a deep passion for coding and web development. My skills lie in frameworks like React, Kotlin, and Python, but I'm always learning and expanding my horizons. In my free time, I unwind with my guitar. 
 </p>
 
+**<h2>🔧My Toolbox </h2>**
 
-```javascript
-const Divyam = {
-  pronouns: "he" | "him",
-  code: [Python, Javascript, C, C++, Html, Css, Java],
-  tools: [React, Node, Bootstrap, ThreeJS, MongoDB, sql],
-  when_idle: [Playing_Guitar, Travelling, Reading]
-}
-```
-**<h2>📑Stats for nerds -</h2>**
+<img src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 >
+<img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 >
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 >
+<img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 >
+<img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 >
+<img src="https://img.icons8.com/?size=100&id=25Sjy8fKExYA&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 >
+<img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 >
+<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 >
+
+
+**<h2>📑Stats for Nerds</h2>**
 
 <br>
 
@@ -27,7 +30,7 @@ const Divyam = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyam2203&hide_progress=true&theme=gruvbox_light&card-height=300px) 
 
 
-**<h2>📬Connect with me -</h2>**
+**<h2>📬Connect with me </h2>**
 
 
 <a href ="https://www.linkedin.com/in/divyam-4b9476255/">
