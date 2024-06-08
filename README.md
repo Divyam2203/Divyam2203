@@ -20,7 +20,7 @@ I'm wrapping up my final year at </i><a href="https://kiit.ac.in">KIIT Universit
 <br>
 
 [![Divyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyam2203&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyam2203&size_weight=0.1&count_weight=0.9&theme=gruvbox_light&card-height=300px) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyam2203&size_weight=0.25&count_weight=0.75&hide=powershell&theme=gruvbox_light&card-height=300px) 
 
 
 **<h2>📬Connect with me </h2>**
