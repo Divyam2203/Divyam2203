@@ -20,8 +20,8 @@ I'm wrapping up my final year at </i><a href="https://kiit.ac.in">KIIT Universit
 <br>
 
 [![Divyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyam2203&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://leetcode.com/u/divsxd/">![Leetcode Stats](https://leetcard.jacoblin.cool/divsxd?theme=forest&ext=heatmap&width=450&height=200)</a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyam2203&size_weight=0.15&count_weight=0.85&hide=powershell,batchfilet&card-height=300px&layout=donut&theme=gruvbox_light) 
-<a href="https://leetcode.com/u/divsxd/">![Leetcode Stats](https://leetcard.jacoblin.cool/divsxd?theme=forest&ext=heatmap)</a>
 
 
 
