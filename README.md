@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RoeWcwNjZqOW0zdHY3bTV2cmxnZDJzcXc5c3Jlamd4M3BsZXIyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/APel4rVH09pmxIZcZN/giphy.webp" width = 100% height = 200px style="object-fit: cover;">
+<a href = "https://www.youtube.com/watch?v=bFwOlLu2djc"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RoeWcwNjZqOW0zdHY3bTV2cmxnZDJzcXc5c3Jlamd4M3BsZXIyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/APel4rVH09pmxIZcZN/giphy.webp" width = 100% height = 200px style="object-fit: cover;"></a>
 
 ---
 
@@ -12,7 +12,7 @@ I'm wrapping up my final year at </i><a href="https://kiit.ac.in">KIIT Universit
 
 **<h2>🔧My Toolbox </h2>**
 
-<img src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 ><img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 ><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 ><img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 ><img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 ><img src="https://img.icons8.com/?size=100&id=25Sjy8fKExYA&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 ><img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 ><img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 ><img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;" alt="LinkedIn Link" height=70 >
+<img src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;background-color:white;" alt="Python" height=70 ><img src="https://img.icons8.com/?size=100&id=25Sjy8fKExYA&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;background-color:white;" alt="React" height=70 ><img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;background-color:white;" alt="Javascript" height=70 ><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;background-color:white;" alt="HTML" height=70 ><img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;background-color:white;" alt="CSS" height=70 ><img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;background-color:white;" alt="C++" height=70 ><img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;background-color:white;" alt="MongoDB" height=70 ><img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;background-color:white;" alt="Node" height=70 ><img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" style="vertical-align:middle; margin:5px 5px 5px 5px;background-color:white;" alt="Next JS" height=70 >
 
 
 **<h2>📑Stats for Nerds</h2>**
@@ -20,7 +20,9 @@ I'm wrapping up my final year at </i><a href="https://kiit.ac.in">KIIT Universit
 <br>
 
 [![Divyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyam2203&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyam2203&size_weight=0.15&count_weight=0.85&hide=powershell,batchfile&theme=gruvbox_light&card-height=300px&layout=donut) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyam2203&size_weight=0.15&count_weight=0.85&hide=powershell,batchfilet&card-height=300px&layout=donut&theme=gruvbox_light) 
+<a href="https://leetcode.com/u/divsxd/">![Leetcode Stats](https://leetcard.jacoblin.cool/divsxd?theme=forest&ext=heatmap)</a>
+
 
 
 **<h2>📬Connect with me </h2>**
