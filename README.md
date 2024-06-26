@@ -41,7 +41,7 @@ I'm wrapping up my final year at </i><a href="https://kiit.ac.in">KIIT Universit
 <a href ="https://divyam2203.pythonanywhere.com/" target ="_blank" title="Portfolio">
 <img src="https://img.icons8.com/?size=100&id=121191&format=png&color=000000" style="vertical-align:middle" height=70 alt="Portfolio">
 </a>
-<a href ="https://www.instagram.com/divyaminapickle/" target ="_blank" tile="Instagram" >
+<a href ="https://www.instagram.com/divs.ongaku/" target ="_blank" tile="Instagram" >
 <img src="https://img.icons8.com/?size=100&id=111412&format=png&color=000000" style="vertical-align:middle" height=70 alt="Instagram">
 </a>
 <img align ='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJmMDB5c3pxaTc0MGhsdmxmNmVpcjhzMHF2c3I4YnNseWN3NXJtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width = "190" style="margin-left:20px;vertical-align:middle;">
